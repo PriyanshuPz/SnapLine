@@ -12,10 +12,6 @@ export async function GET(request: Request) {
       },
     });
 
-    if (aiservices.length === 0) {
-      return NextResponse.json({ message: "Nothing found" }, { status: 404 });
-    }
-
     return NextResponse.json(aiservices);
   } catch (error) {
     console.log(error);
