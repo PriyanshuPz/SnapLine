@@ -1,4 +1,5 @@
-[![wakatime](https://wakatime.com/badge/github/p7uverma/SnapLine.svg)](https://wakatime.com/badge/github/p7uverma/SnapLine)
+> [!CAUTION]  
+> Going to be read only soon.
 
 # SnapLine - AI-Powered Creativity and Prompts Platform
 
