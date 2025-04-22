@@ -139,8 +139,8 @@ We welcome and appreciate contributions from the community! Here's how you can c
 
 Have questions or feedback? Reach out to us:
 
-- GitHub: [@PriyanshuVerma-Dev](https://github.com/priyanshuverma-dev)
-- Email: hello@p7u.tech
+- GitHub: [@PriyanshuPz](https://github.com/priyanshupz)
+- Email: priyanshuverma@outlook.in
 
 ## License
 
